@@ -1,3 +1,7 @@
+# vim and gitignore
+.gitignore
+~
+
 #built application files
 *.apk
 *.ap_
